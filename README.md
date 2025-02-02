@@ -4,7 +4,7 @@ I am a **Data Science student** with a strong academic foundation and hands-on e
 
 ---
 
-### Areas of Expertise 💡
+### Areas of Interest 
 
 - **Machine Learning**: Proficient in designing and deploying models for classification, regression, and clustering. Experienced with supervised and unsupervised learning algorithms, including but not limited to Random Forests, Support Vector Machines (SVM), and K-Nearest Neighbors (KNN).
 
@@ -16,38 +16,6 @@ I am a **Data Science student** with a strong academic foundation and hands-on e
 
 ---
 
-### Current Focus 🔍
-
-- Continuously enhancing expertise in **Deep Learning** and its applications to **Computer Vision**, **Speech Recognition**.
-
-- Exploring **Reinforcement Learning** and its integration into real-world applications such as robotics and game theory.
-
-- Developing algorithms for **big data** processing and **distributed computing** to optimize performance at scale.
-
----
-
-### Collaboration Interests 🤝
-
-- Partnering on advanced **AI/ML projects** in domains such as **healthcare**, **finance**, **autonomous systems**, and **smart cities**.
-
-- Collaborative work on **algorithm optimization** and enhancing the efficiency of machine learning workflows.
-
-- Engaging with interdisciplinary teams on projects that combine **software engineering**, **data science**, and **business intelligence**.
-
----
-
-### Key Technical Skills 🛠️
-
-- **Programming Languages**: Python, C++, JavaScript, SQL
-
-- **Machine Learning Libraries**: TensorFlow, Keras, PyTorch, Scikit-Learn
-
-- **Data Science Tools**: Pandas, NumPy, SciPy, Plotly, Seaborn, Matplotlib
-
-- **Databases**: MySQL, FireBase, MongoDB
-
----
-
 ### How to Reach Me 📬
 
 - Email: vaibhavvijay31@gmail.com
@@ -56,7 +24,3 @@ I am a **Data Science student** with a strong academic foundation and hands-on e
 
 ---
 
-
----
-
-I am always open to new opportunities to collaborate, innovate, and contribute to projects that leverage to create meaningful impact. Feel free to explore my repositories to see my work, and reach out if you're interested in collaborating or discussing potential projects.
